@@ -1,0 +1,17 @@
+C:\Users\Eliza\source\repos\lab 10\lab 10\bin\Debug\net6.0-windows\lab 10.exe
+C:\Users\Eliza\source\repos\lab 10\lab 10\bin\Debug\net6.0-windows\lab 10.deps.json
+C:\Users\Eliza\source\repos\lab 10\lab 10\bin\Debug\net6.0-windows\lab 10.runtimeconfig.json
+C:\Users\Eliza\source\repos\lab 10\lab 10\bin\Debug\net6.0-windows\lab 10.dll
+C:\Users\Eliza\source\repos\lab 10\lab 10\bin\Debug\net6.0-windows\lab 10.pdb
+C:\Users\Eliza\source\repos\lab 10\lab 10\obj\Debug\net6.0-windows\lab_10.Form1.resources
+C:\Users\Eliza\source\repos\lab 10\lab 10\obj\Debug\net6.0-windows\lab 10.csproj.GenerateResource.cache
+C:\Users\Eliza\source\repos\lab 10\lab 10\obj\Debug\net6.0-windows\lab 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliza\source\repos\lab 10\lab 10\obj\Debug\net6.0-windows\lab 10.AssemblyInfoInputs.cache
+C:\Users\Eliza\source\repos\lab 10\lab 10\obj\Debug\net6.0-windows\lab 10.AssemblyInfo.cs
+C:\Users\Eliza\source\repos\lab 10\lab 10\obj\Debug\net6.0-windows\lab 10.csproj.CoreCompileInputs.cache
+C:\Users\Eliza\source\repos\lab 10\lab 10\obj\Debug\net6.0-windows\lab 10.dll
+C:\Users\Eliza\source\repos\lab 10\lab 10\obj\Debug\net6.0-windows\refint\lab 10.dll
+C:\Users\Eliza\source\repos\lab 10\lab 10\obj\Debug\net6.0-windows\lab 10.pdb
+C:\Users\Eliza\source\repos\lab 10\lab 10\obj\Debug\net6.0-windows\lab 10.genruntimeconfig.cache
+C:\Users\Eliza\source\repos\lab 10\lab 10\obj\Debug\net6.0-windows\ref\lab 10.dll
+C:\Users\Eliza\source\repos\lab 10\lab 10\obj\Debug\net6.0-windows\lab_10.StudentInfo.resources
